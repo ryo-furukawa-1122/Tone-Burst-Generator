@@ -50,7 +50,7 @@ class _PureToneGeneratorState extends State<PureToneGenerator> {
     );
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Pure Tone Generator'),
+        title: const Text('Tone Burst Generator'),
         // elevation: 4,
         // shadowColor: Colors.black.withOpacity(0.2),
         // backgroundColor: Colors.white,
