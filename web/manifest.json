@@ -1,6 +1,6 @@
 {
-    "name": "flutter_sound",
-    "short_name": "flutter_sound",
+    "name": "tone_burst_generator",
+    "short_name": "tone_burst_generator",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
