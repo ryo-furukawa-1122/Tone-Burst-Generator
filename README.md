@@ -1,4 +1,4 @@
-# flutter_sound
+# Tone Burst Generator
 
 A new Flutter project.
 
