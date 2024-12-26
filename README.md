@@ -8,6 +8,21 @@
 
 A new Flutter project.
 
+## Install 
+```
+$ flutter build apk
+```
+```
+$ flutter devices
+```
+```
+$ flutter install -d [device name]
+```
+
+## Update icon
+```
+$ flutter pub run flutter_launcher_icon:main
+```
 ## Getting Started
 
 This project is a starting point for a Flutter application.
