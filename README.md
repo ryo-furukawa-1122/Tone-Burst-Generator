@@ -8,6 +8,19 @@
 
 A new Flutter project.
 
+## Usage
+1. Select the frequency of the sound
+2. Touch "play" botton
+
+<div style="display: flex; flex-direction: column; justify-content: space-evenly">
+    <div style="padding: 24px; margin: auto">
+        <img src="assets/images/demo2.jpg" width=100px>
+    </div>
+    <div style="padding: 24px; margin: auto">
+        <img src="assets/images/demo1.jpg" width=100px>
+    </div>
+</div>
+
 ## Install 
 ```
 $ flutter build apk
