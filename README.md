@@ -1,4 +1,10 @@
-# Tone Burst Generator
+<h1 align=center>
+    <a href="https://github.com/ryo-furukawa-1122/Tone-Burst-Generator">
+        <img src="assets/images/icon.png" width=100px>
+    </a>
+    <br>
+    Tone Burst Generator
+</h1>
 
 A new Flutter project.
 
