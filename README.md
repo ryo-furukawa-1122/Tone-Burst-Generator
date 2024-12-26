@@ -12,11 +12,11 @@ A new Flutter project.
 1. Select the frequency of the sound
 2. Touch "play" botton
 
-<div style="display: flex; flex-direction: column; justify-content: center">
-    <div style="padding: 24px; display: flex; justify-content: center">
+<div style="display: flex; flex-direction: column">
+    <div style="margin: 24px auto" align=center>
         <img src="assets/images/demo2.jpg" width=200px>
     </div>
-    <div style="padding: 24px; display: flex; justify-content: center">
+    <div style="margin: 24px auto" align=center>
         <img src="assets/images/demo1.jpg" width=200px>
     </div>
 </div>
