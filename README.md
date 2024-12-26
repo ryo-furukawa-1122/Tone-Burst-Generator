@@ -14,6 +14,9 @@ A new Flutter project.
 
 <div style="display: flex; flex-direction: column">
     <div style="margin: 24px auto" align=center>
+        <img src="assets/images/demo0.jpg" width=200px>
+    </div>
+    <div style="margin: 24px auto" align=center>
         <img src="assets/images/demo2.jpg" width=200px>
     </div>
     <div style="margin: 24px auto" align=center>
