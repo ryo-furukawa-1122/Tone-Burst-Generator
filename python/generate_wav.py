@@ -20,7 +20,7 @@ def generate_tone(frequency, duration, sample_rate, file_name):
 
 # Parameters
 sample_rate = 44100  # 44.1 kHz
-duration = 60  # 2 seconds
+duration = 60  # 60 seconds
 frequencies = [2000, 4000, 8000, 16000]  # Desired frequencies in Hz
 file_names = [f"{freq}Hz.wav" for freq in frequencies]
 
